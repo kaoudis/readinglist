@@ -13,7 +13,7 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 [] [LINK](http://people.seas.harvard.edu/~chong/pubs/oakland21_coinflow.pdf) Xiang, Jian, and Stephen Chong. "Co-Inflow: Coarse-grained Information Flow Control for Java-like Languages." 2021 IEEE Symposium on Security and Privacy (SP). IEEE, 2021.
 
-[] [LINK](https://dl.acm.org/doi/pdf/10.1145/3133956.3134036() Waye, Lucas, et al. "Cryptographically secure information flow control on key-value stores." Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. 2017.
+[] [LINK](https://dl.acm.org/doi/pdf/10.1145/3133956.3134036) Waye, Lucas, et al. "Cryptographically secure information flow control on key-value stores." Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. 2017.
 
 [] [LINK](https://dl.acm.org/doi/pdf/10.1145/3487552.3487817) Randall, Audrey, et al. "Home is where the hijacking is: understanding DNS interception by residential routers." Proceedings of the 21st ACM Internet Measurement Conference. 2021.
 
