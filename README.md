@@ -1,6 +1,10 @@
-# Interesting Reading List
+# Reading List
 
-This list is organised by reading start date, with the most recently added paper at the top. If there's not a date on it, I haven't started reading it yet, but have probably printed it and put it in the local stack on my desk.
+There is no rhyme or reason to inclusion here except it's all stuff I'm interested in. "Interesting" is subjective and not objective here. This is a non-exhaustive list of papers I have read or am reading, organised by reading start date, with the most recently added paper at the top. If there's not a date on it, I haven't started reading it yet, but have probably printed it and put it in the local stack on my desk.
+
+Why are the citations MLA? I like MLA. And it's the first citation format Google Scholar lists.
+
+Why is paper A included but not paper B? I'd appreciate you teaching me about paper B's existence by making a PR to add it ;)
 
 # 2022
 [] [LINK](https://www.seltzer.com/assets/publications/ndss2020-unicorn.pdf) Han, Xueyuan, et al. "Unicorn: Runtime provenance-based detector for advanced persistent threats." Network and Distributed Systems Security (NDSS) Symposium. 2020.
@@ -78,16 +82,3 @@ This list is organised by reading start date, with the most recently added paper
 # 2017
 
 [x] **10/5/17** [LINK](https://dl.acm.org/doi/fullHtml/10.1145/2776756) Maddox, Philip. "Testing a distributed system." Communications of the ACM 58.9 (2015): 54-58.
-
-# Prior years
-Idk, I was probably reading papers then too, but I threw out most of my printed pages when I moved in 2016.
-
-# Q&A
-"Interesting" is subjective and not objective here.
-
-Why are the citations MLA? I like MLA. And it's the first citation format Google Scholar lists.
-
-Why is paper A included but not paper B? I'd appreciate you teaching me about paper B's existence by making a PR to add it ;)
-
-Does this include every paper I have ever read? No.
-
