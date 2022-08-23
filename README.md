@@ -31,9 +31,9 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 [] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
 
-[] [LINK](https://dl.acm.org/doi/pdf/10.1145/355616.364017) Wulf, William, et al. "Hydra: The kernel of a multiprocessor operating system." Communications of the ACM 17.6 (1974): 337-345.
+[] **8/22/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/355616.364017) Wulf, William, et al. "Hydra: The kernel of a multiprocessor operating system." Communications of the ACM 17.6 (1974): 337-345.
 
-[] **8/22/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/3354166.3354175) Farina, Gian Pietro, Stephen Chong, and Marco Gaboardi. "Relational symbolic execution." Proceedings of the 21st International Symposium on Principles and Practice of Declarative Programming. 2019.
+[x] **8/22/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/3354166.3354175) Farina, Gian Pietro, Stephen Chong, and Marco Gaboardi. "Relational symbolic execution." Proceedings of the 21st International Symposium on Principles and Practice of Declarative Programming. 2019.
 
 [x] **6/12/22** [LINK](https://courses.cs.vt.edu/cs5204/fall12-kafura/Papers/Security/Asbestos-OS-Labels-Events.pdf) Efstathopoulos, Petros, et al. "Labels and event processes in the Asbestos operating system." ACM SIGOPS Operating Systems Review 39.5 (2005): 17-30.
 
