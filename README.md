@@ -17,8 +17,6 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 [] [LINK](https://dl.acm.org/doi/pdf/10.1145/3487552.3487817) Randall, Audrey, et al. "Home is where the hijacking is: understanding DNS interception by residential routers." Proceedings of the 21st ACM Internet Measurement Conference. 2021.
 
-[] [LINK](https://dl.acm.org/doi/pdf/10.1145/3442381.3450100) Yelam, Anil, et al. "Coresident evil: Covert communication in the cloud with lambdas." Proceedings of the Web Conference 2021. 2021.
-
 [] [LINK](https://dash.harvard.edu/bitstream/handle/1/40614411/tr-01-19%20revised.pdf?sequence=4&isAllowed=y) Gollamudi, Anitha, Stephen Chong, and Owen Arden. "Information flow control for distributed trusted execution environments." 2019 IEEE 32nd Computer Security Foundations Symposium (CSF). IEEE, 2019.
 
 [] [LINK](https://dl.acm.org/doi/pdf/10.1145/3355369.3355571) DeKoven, Louis F., et al. "Measuring security practices and how they impact security." Proceedings of the Internet Measurement Conference. 2019.
@@ -27,11 +25,13 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 [] [LINK](https://github.com/angea/pocorgtfo/blob/master/contents/articles/20-09.pdf) Perez, Ben. "RSA GTFO." PoC||GTFO, 0x20.
 
-[] [LINK](https://bradfordlarsen.com/files/publications/semantic-labeling-langsec-2020.pdf) Harmon, Carson, Bradford Larsen, and Evan A. Sultanik. "Toward automated grammar extraction via semantic labeling of parser implementations." 2020 IEEE Security and Privacy Workshops (SPW). IEEE, 2020.
-
 [] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
 
-[] **8/22/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/355616.364017) Wulf, William, et al. "Hydra: The kernel of a multiprocessor operating system." Communications of the ACM 17.6 (1974): 337-345.
+[] **9/13/22** [LINK](https://bradfordlarsen.com/files/publications/semantic-labeling-langsec-2020.pdf) Harmon, Carson, Bradford Larsen, and Evan A. Sultanik. "Toward automated grammar extraction via semantic labeling of parser implementations." 2020 IEEE Security and Privacy Workshops (SPW). IEEE, 2020.
+
+[x] **9/13/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/3442381.3450100) Yelam, Anil, et al. "Coresident evil: Covert communication in the cloud with lambdas." Proceedings of the Web Conference 2021. 2021.
+
+[x] **8/22/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/355616.364017) Wulf, William, et al. "Hydra: The kernel of a multiprocessor operating system." Communications of the ACM 17.6 (1974): 337-345.
 
 [x] **8/22/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/3354166.3354175) Farina, Gian Pietro, Stephen Chong, and Marco Gaboardi. "Relational symbolic execution." Proceedings of the 21st International Symposium on Principles and Practice of Declarative Programming. 2019.
 
