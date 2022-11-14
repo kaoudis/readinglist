@@ -27,9 +27,9 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 - [ ] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
 
-- [ ] **10/11/22** [LINK](https://www.usenix.org/system/files/sec22-vadayath.pdf) Vadayath, Jayakrishna, et al. "Arbiter: Bridging the Static and Dynamic Divide in Vulnerability Discovery on Binary Programs." 31st USENIX Security Symposium (USENIX Security 22). 2022.
+- [x] **10/11/22** [LINK](https://www.usenix.org/system/files/sec22-vadayath.pdf) Vadayath, Jayakrishna, et al. "Arbiter: Bridging the Static and Dynamic Divide in Vulnerability Discovery on Binary Programs." 31st USENIX Security Symposium (USENIX Security 22). 2022.
 
-- [ ] **10/11/22** [LINK](https://www.usenix.org/system/files/sec20-brown.pdf) Brown, Fraser, Deian Stefan, and Dawson Engler. "Sys: A {Static/Symbolic} Tool for Finding Good Bugs in Good (Browser) Code." 29th USENIX Security Symposium (USENIX Security 20). 2020.
+- [x] **10/11/22** [LINK](https://www.usenix.org/system/files/sec20-brown.pdf) Brown, Fraser, Deian Stefan, and Dawson Engler. "Sys: A {Static/Symbolic} Tool for Finding Good Bugs in Good (Browser) Code." 29th USENIX Security Symposium (USENIX Security 20). 2020.
 
 - [x] **9/13/22** [LINK](https://bradfordlarsen.com/files/publications/semantic-labeling-langsec-2020.pdf) Harmon, Carson, Bradford Larsen, and Evan A. Sultanik. "Toward automated grammar extraction via semantic labeling of parser implementations." 2020 IEEE Security and Privacy Workshops (SPW). IEEE, 2020.
 
