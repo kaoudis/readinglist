@@ -27,7 +27,19 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 - [ ] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
 
-- [ ] **11/14/22** [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8418632&casa_token=zDUg5vDIJ2sAAAAA:TRFdc6f3U4IWoNESAztkfI0IJgS_i0UjXBR3cbljGM_6oGmYqqVYBXgOTIdPtlr93qrrW7E) Peng, Hui, Yan Shoshitaishvili, and Mathias Payer. "T-Fuzz: fuzzing by program transformation." 2018 IEEE Symposium on Security and Privacy (SP). IEEE.
+- [ ] **11/15/22** [LINK](https://dl.acm.org/doi/abs/10.1145/3501774.3501781) Shen, Zefan. "The Impact of Undefined Behavior on Compiler Optimization." 2021 2nd European Symposium on Software Engineering. 2021.
+
+- [ ] **11/15/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/2699678) Wang, Xi, et al. "A differential approach to undefined behavior detection." ACM Transactions on Computer Systems (TOCS) 33.1 (2015): 1-29.
+
+- [ ] **11/15/22** [LINK](https://web.cs.ucdavis.edu/~su/publications/emi.pdf) Le, Vu, Mehrdad Afshari, and Zhendong Su. "Compiler validation via equivalence modulo inputs." ACM Sigplan Notices 49.6 (2014): 216-226.
+
+- [ ] **11/15/22** [LINK](https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.718) Lee, Han, et al. "Understanding the behavior of compiler optimizations." Software: Practice and Experience 36.8 (2006): 835-844.
+
+- [ ] **11/15/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/301631.301683) Grant, Brian, et al. "An evaluation of staged run-time optimizations in DyC." ACM SIGPLAN Notices 34.5 (1999): 293-304.
+
+- [ ] **11/15/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/3485531) Brown, Michael D., et al. "Not so fast: understanding and mitigating negative impacts of compiler optimizations on code reuse gadget sets." Proceedings of the ACM on Programming Languages 5.OOPSLA (2021): 1-30.
+
+- [x] **11/14/22** [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8418632&casa_token=zDUg5vDIJ2sAAAAA:TRFdc6f3U4IWoNESAztkfI0IJgS_i0UjXBR3cbljGM_6oGmYqqVYBXgOTIdPtlr93qrrW7E) Peng, Hui, Yan Shoshitaishvili, and Mathias Payer. "T-Fuzz: fuzzing by program transformation." 2018 IEEE Symposium on Security and Privacy (SP). IEEE.
 
 - [x] **10/11/22** [LINK](https://www.usenix.org/system/files/sec22-vadayath.pdf) Vadayath, Jayakrishna, et al. "Arbiter: Bridging the Static and Dynamic Divide in Vulnerability Discovery on Binary Programs." 31st USENIX Security Symposium (USENIX Security 22). 2022.
 
