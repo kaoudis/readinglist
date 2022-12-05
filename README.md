@@ -33,6 +33,8 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 - [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/301631.301683) Grant, Brian, et al. "An evaluation of staged run-time optimizations in DyC." ACM SIGPLAN Notices 34.5 (1999): 293-304.
 
+- [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/3297858.3304017) Zhang, Tong, Dongyoon Lee, and Changhee Jung. "Bogo: Buy spatial memory safety, get temporal memory safety (almost) free." Proceedings of the Twenty-Fourth International Conference on Architectural Support for Programming Languages and Operating Systems. 2019.
+
 - [ ] **12/5/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/2786763.2694367?casa_token=T4z0zjHjUKcAAAAA:2R0YpHkWA60wafIoBgl8defX7dylgdF3DVgz92uyY1yp7XaAzLkoL3TejrQIYZpaxGpnDp0xzwWK6A) Chisnall, David, et al. "Beyond the PDP-11: Architectural support for a memory-safe C abstract machine." ACM SIGARCH Computer Architecture News 43.1 (2015): 117-130.
 
 - [x] **12/5/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/2737924.2737979?casa_token=Z4zl1FRuje8AAAAA:l0vbzKS2FGIN7tmeNIl3v-n0aKL-6lKTv0TJUrJneSA8gCWHAe6Mrxub23d060NKAlz44LlsEU4) Hathhorn, Chris, Chucky Ellison, and Grigore Roşu. "Defining the undefinedness of C." Proceedings of the 36th ACM SIGPLAN Conference on Programming Language Design and Implementation. 2015.
