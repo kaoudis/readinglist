@@ -33,9 +33,9 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 - [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/301631.301683) Grant, Brian, et al. "An evaluation of staged run-time optimizations in DyC." ACM SIGPLAN Notices 34.5 (1999): 293-304.
 
-- [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/2737924.2737979?casa_token=Z4zl1FRuje8AAAAA:l0vbzKS2FGIN7tmeNIl3v-n0aKL-6lKTv0TJUrJneSA8gCWHAe6Mrxub23d060NKAlz44LlsEU4) Hathhorn, Chris, Chucky Ellison, and Grigore Roşu. "Defining the undefinedness of C." Proceedings of the 36th ACM SIGPLAN Conference on Programming Language Design and Implementation. 2015.
+- [ ] **12/5/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/2737924.2737979?casa_token=Z4zl1FRuje8AAAAA:l0vbzKS2FGIN7tmeNIl3v-n0aKL-6lKTv0TJUrJneSA8gCWHAe6Mrxub23d060NKAlz44LlsEU4) Hathhorn, Chris, Chucky Ellison, and Grigore Roşu. "Defining the undefinedness of C." Proceedings of the 36th ACM SIGPLAN Conference on Programming Language Design and Implementation. 2015.
 
-- [ ] **12/1/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/3485531) Brown, Michael D., et al. "Not so fast: understanding and mitigating negative impacts of compiler optimizations on code reuse gadget sets." Proceedings of the ACM on Programming Languages 5.OOPSLA (2021): 1-30.
+- [x] **12/1/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/3485531) Brown, Michael D., et al. "Not so fast: understanding and mitigating negative impacts of compiler optimizations on code reuse gadget sets." Proceedings of the ACM on Programming Languages 5.OOPSLA (2021): 1-30.
 
 - [x] **12/1/22** [LINK](https://www.cs.utah.edu/~regehr/papers/undef-pldi17.pdf) Lee, Juneyoung, et al. "Taming undefined behavior in LLVM." ACM SIGPLAN Notices 52.6 (2017): 633-647.
 
