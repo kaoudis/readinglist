@@ -6,7 +6,8 @@ Why are the citations MLA? I like MLA. And it's the first citation format Google
 
 Why is paper A included but not paper B? I'd appreciate you teaching me about paper B's existence by making a PR to add it ;)
 
-# 2022
+# 2023
+
 - [ ] [LINK](https://www.seltzer.com/assets/publications/ndss2020-unicorn.pdf) Han, Xueyuan, et al. "Unicorn: Runtime provenance-based detector for advanced persistent threats." Network and Distributed Systems Security (NDSS) Symposium. 2020.
 
 - [ ] [LINK](https://link.springer.com/content/pdf/10.1007/978-3-642-11145-7_23.pdf) Xiong, Huijun, et al. "User-assisted host-based detection of outbound malware traffic." International Conference on Information and Communications Security. Springer, Berlin, Heidelberg, 2009.
@@ -27,15 +28,21 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 - [ ] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
 
-- [ ] [LINK](https://web.cs.ucdavis.edu/~su/publications/emi.pdf) Le, Vu, Mehrdad Afshari, and Zhendong Su. "Compiler validation via equivalence modulo inputs." ACM Sigplan Notices 49.6 (2014): 216-226.
+- [ ] **1/5/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/3456727.3463767) Roessler, Nick, et al. "Lossless instruction-to-object memory tracing in the Linux kernel." Proceedings of the 14th ACM International Conference on Systems and Storage. 2021.
 
-- [ ] [LINK](https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.718) Lee, Han, et al. "Understanding the behavior of compiler optimizations." Software: Practice and Experience 36.8 (2006): 835-844.
+- [ ] **1/5/23** [LINK](https://web.cs.ucdavis.edu/~su/publications/emi.pdf) Le, Vu, Mehrdad Afshari, and Zhendong Su. "Compiler validation via equivalence modulo inputs." ACM Sigplan Notices 49.6 (2014): 216-226.
 
-- [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/301631.301683) Grant, Brian, et al. "An evaluation of staged run-time optimizations in DyC." ACM SIGPLAN Notices 34.5 (1999): 293-304.
+- [ ] **1/5/23** [LINK](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) Elliott, Archibald Samuel, et al. "Checked C: making C safe by extension." 2018 IEEE Cybersecurity Development (SecDev). IEEE, 2018.
 
-- [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/3297858.3304017) Zhang, Tong, Dongyoon Lee, and Changhee Jung. "Bogo: Buy spatial memory safety, get temporal memory safety (almost) free." Proceedings of the Twenty-Fourth International Conference on Architectural Support for Programming Languages and Operating Systems. 2019.
+# 2022
 
-- [ ] **12/5/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/2786763.2694367?casa_token=T4z0zjHjUKcAAAAA:2R0YpHkWA60wafIoBgl8defX7dylgdF3DVgz92uyY1yp7XaAzLkoL3TejrQIYZpaxGpnDp0xzwWK6A) Chisnall, David, et al. "Beyond the PDP-11: Architectural support for a memory-safe C abstract machine." ACM SIGARCH Computer Architecture News 43.1 (2015): 117-130.
+- [x] **12/15/22** [LINK](https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.718) Lee, Han, et al. "Understanding the behavior of compiler optimizations." Software: Practice and Experience 36.8 (2006): 835-844.
+
+- [x] **12/15/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/301631.301683) Grant, Brian, et al. "An evaluation of staged run-time optimizations in DyC." ACM SIGPLAN Notices 34.5 (1999): 293-304.
+
+- [X] **12/10/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/3297858.3304017) Zhang, Tong, Dongyoon Lee, and Changhee Jung. "Bogo: Buy spatial memory safety, get temporal memory safety (almost) free." Proceedings of the Twenty-Fourth International Conference on Architectural Support for Programming Languages and Operating Systems. 2019.
+
+- [x] **12/5/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/2786763.2694367?casa_token=T4z0zjHjUKcAAAAA:2R0YpHkWA60wafIoBgl8defX7dylgdF3DVgz92uyY1yp7XaAzLkoL3TejrQIYZpaxGpnDp0xzwWK6A) Chisnall, David, et al. "Beyond the PDP-11: Architectural support for a memory-safe C abstract machine." ACM SIGARCH Computer Architecture News 43.1 (2015): 117-130.
 
 - [x] **12/5/22** [LINK](https://dl.acm.org/doi/pdf/10.1145/2737924.2737979?casa_token=Z4zl1FRuje8AAAAA:l0vbzKS2FGIN7tmeNIl3v-n0aKL-6lKTv0TJUrJneSA8gCWHAe6Mrxub23d060NKAlz44LlsEU4) Hathhorn, Chris, Chucky Ellison, and Grigore Roşu. "Defining the undefinedness of C." Proceedings of the 36th ACM SIGPLAN Conference on Programming Language Design and Implementation. 2015.
 
