@@ -24,15 +24,19 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 - [ ] [LINK](https://agroce.github.io/qrs21.pdf) Groce, Alex, et al. "Evaluating and improving static analysis tools via differential mutation analysis." 2021 IEEE 21st International Conference on Software Quality, Reliability and Security (QRS). IEEE, 2021.
 
-- [ ] [LINK](https://github.com/angea/pocorgtfo/blob/master/contents/articles/20-09.pdf) Perez, Ben. "RSA GTFO." PoC||GTFO, 0x20.
-
 - [ ] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
 
-- [ ] **1/5/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/3456727.3463767) Roessler, Nick, et al. "Lossless instruction-to-object memory tracing in the Linux kernel." Proceedings of the 14th ACM International Conference on Systems and Storage. 2021.
+- [ ] **2/22/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/2818000.2818035?casa_token=Z1yTs_zlxnQAAAAA:udBHnFqC0rRQ8ZBvyPYToXwsrGy1TEYZWE_Gpi6pUehzktHNuqfg_AeBuoKzaD6w-SQKN__AyqEgog) Cojocar, Lucian, et al. "PIE: Parser identification in embedded systems." Proceedings of the 31st Annual Computer Security Applications Conference. 2015.
 
-- [ ] **1/5/23** [LINK](https://web.cs.ucdavis.edu/~su/publications/emi.pdf) Le, Vu, Mehrdad Afshari, and Zhendong Su. "Compiler validation via equivalence modulo inputs." ACM Sigplan Notices 49.6 (2014): 216-226.
+- [ ] **2/22/23** [LINK](https://www.mdpi.com/2079-9292/11/13/2023/pdf) Gangolli, Aakash, Qusay H. Mahmoud, and Akramul Azim. "A systematic review of fault injection attacks on IOT systems." Electronics 11.13 (2022): 2023.
 
-- [ ] **1/5/23** [LINK](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) Elliott, Archibald Samuel, et al. "Checked C: making C safe by extension." 2018 IEEE Cybersecurity Development (SecDev). IEEE, 2018.
+- [x] **2/1/23** [LINK](https://github.com/angea/pocorgtfo/blob/master/contents/articles/20-09.pdf) Perez, Ben. "RSA GTFO." PoC||GTFO, 0x20.
+
+- [x] **1/5/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/3456727.3463767) Roessler, Nick, et al. "Lossless instruction-to-object memory tracing in the Linux kernel." Proceedings of the 14th ACM International Conference on Systems and Storage. 2021.
+
+- [x] **1/5/23** [LINK](https://web.cs.ucdavis.edu/~su/publications/emi.pdf) Le, Vu, Mehrdad Afshari, and Zhendong Su. "Compiler validation via equivalence modulo inputs." ACM Sigplan Notices 49.6 (2014): 216-226.
+
+- [x] **1/5/23** [LINK](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) Elliott, Archibald Samuel, et al. "Checked C: making C safe by extension." 2018 IEEE Cybersecurity Development (SecDev). IEEE, 2018.
 
 # 2022
 
