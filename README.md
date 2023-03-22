@@ -26,9 +26,11 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 - [ ] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
 
-- [ ] **2/22/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/2818000.2818035?casa_token=Z1yTs_zlxnQAAAAA:udBHnFqC0rRQ8ZBvyPYToXwsrGy1TEYZWE_Gpi6pUehzktHNuqfg_AeBuoKzaD6w-SQKN__AyqEgog) Cojocar, Lucian, et al. "PIE: Parser identification in embedded systems." Proceedings of the 31st Annual Computer Security Applications Conference. 2015.
+- [x] **3/20/23** [LINK](https://dspace.mit.edu/bitstream/handle/1721.1/72978/Amarasinghe-Transparent%20Dynamic%20Instrumentation.pdf?sequence=1&isAllowed=y) Bruening, Derek, Qin Zhao, and Saman Amarasinghe. "Transparent dynamic instrumentation." Proceedings of the 8th ACM SIGPLAN/SIGOPS conference on Virtual Execution Environments. 2012.
 
-- [ ] **2/22/23** [LINK](https://www.mdpi.com/2079-9292/11/13/2023/pdf) Gangolli, Aakash, Qusay H. Mahmoud, and Akramul Azim. "A systematic review of fault injection attacks on IOT systems." Electronics 11.13 (2022): 2023.
+- [x] **2/22/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/2818000.2818035?casa_token=Z1yTs_zlxnQAAAAA:udBHnFqC0rRQ8ZBvyPYToXwsrGy1TEYZWE_Gpi6pUehzktHNuqfg_AeBuoKzaD6w-SQKN__AyqEgog) Cojocar, Lucian, et al. "PIE: Parser identification in embedded systems." Proceedings of the 31st Annual Computer Security Applications Conference. 2015.
+
+- [x] **2/22/23** [LINK](https://www.mdpi.com/2079-9292/11/13/2023/pdf) Gangolli, Aakash, Qusay H. Mahmoud, and Akramul Azim. "A systematic review of fault injection attacks on IOT systems." Electronics 11.13 (2022): 2023.
 
 - [x] **2/1/23** [LINK](https://github.com/angea/pocorgtfo/blob/master/contents/articles/20-09.pdf) Perez, Ben. "RSA GTFO." PoC||GTFO, 0x20.
 
