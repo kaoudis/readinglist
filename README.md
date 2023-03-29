@@ -26,6 +26,8 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 - [ ] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
 
+- [x] **3/29/23** [LINK](https://www.researchgate.net/profile/James-Cheney-2/publication/1760450_Provenance_as_Dependency_Analysis/links/0f317530bd4dd0d098000000/Provenance-as-Dependency-Analysis.pdf) Cheney, James, Amal Ahmed, and Umut A. Acar. "Provenance as dependency analysis." Database Programming Languages: 11th International Symposium, DBPL 2007, Vienna, Austria, September 23-24, 2007, Revised Selected Papers 11. Springer Berlin Heidelberg, 2007.
+
 - [x] **3/20/23** [LINK](https://dspace.mit.edu/bitstream/handle/1721.1/72978/Amarasinghe-Transparent%20Dynamic%20Instrumentation.pdf?sequence=1&isAllowed=y) Bruening, Derek, Qin Zhao, and Saman Amarasinghe. "Transparent dynamic instrumentation." Proceedings of the 8th ACM SIGPLAN/SIGOPS conference on Virtual Execution Environments. 2012.
 
 - [x] **2/22/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/2818000.2818035?casa_token=Z1yTs_zlxnQAAAAA:udBHnFqC0rRQ8ZBvyPYToXwsrGy1TEYZWE_Gpi6pUehzktHNuqfg_AeBuoKzaD6w-SQKN__AyqEgog) Cojocar, Lucian, et al. "PIE: Parser identification in embedded systems." Proceedings of the 31st Annual Computer Security Applications Conference. 2015.
