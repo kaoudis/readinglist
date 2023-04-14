@@ -8,23 +8,11 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 # 2023
 
-- [ ] [LINK](https://www.seltzer.com/assets/publications/ndss2020-unicorn.pdf) Han, Xueyuan, et al. "Unicorn: Runtime provenance-based detector for advanced persistent threats." Network and Distributed Systems Security (NDSS) Symposium. 2020.
+- [_] [LINK](https://google-code-archive-downloads.storage.googleapis.com/v2/code.google.com/google-caja/caja-spec-2008-06-06.pdf) Miller, Mark S., et al. "Safe active content in sanitized JavaScript." Google, Inc., Tech. Rep (2008).
 
-- [ ] [LINK](https://link.springer.com/content/pdf/10.1007/978-3-642-11145-7_23.pdf) Xiong, Huijun, et al. "User-assisted host-based detection of outbound malware traffic." International Conference on Information and Communications Security. Springer, Berlin, Heidelberg, 2009.
+- [_] [LINK](https://link.springer.com/chapter/10.1007/978-3-319-98047-8_14) Noble, James, et al. "Abstract and concrete data types vs object capabilities." Principled Software Development: Essays Dedicated to Arnd Poetzsch-Heffter on the Occasion of his 60th Birthday (2018): 221-240
 
-- [ ] [LINK](http://people.seas.harvard.edu/~chong/pubs/oakland21_coinflow.pdf) Xiang, Jian, and Stephen Chong. "Co-Inflow: Coarse-grained Information Flow Control for Java-like Languages." 2021 IEEE Symposium on Security and Privacy (SP). IEEE, 2021.
-
-- [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/3133956.3134036) Waye, Lucas, et al. "Cryptographically secure information flow control on key-value stores." Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. 2017.
-
-- [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/3487552.3487817) Randall, Audrey, et al. "Home is where the hijacking is: understanding DNS interception by residential routers." Proceedings of the 21st ACM Internet Measurement Conference. 2021.
-
-- [ ] [LINK](https://dash.harvard.edu/bitstream/handle/1/40614411/tr-01-19%20revised.pdf?sequence=4&isAllowed=y) Gollamudi, Anitha, Stephen Chong, and Owen Arden. "Information flow control for distributed trusted execution environments." 2019 IEEE 32nd Computer Security Foundations Symposium (CSF). IEEE, 2019.
-
-- [ ] [LINK](https://dl.acm.org/doi/pdf/10.1145/3355369.3355571) DeKoven, Louis F., et al. "Measuring security practices and how they impact security." Proceedings of the Internet Measurement Conference. 2019.
-
-- [ ] [LINK](https://agroce.github.io/qrs21.pdf) Groce, Alex, et al. "Evaluating and improving static analysis tools via differential mutation analysis." 2021 IEEE 21st International Conference on Software Quality, Reliability and Security (QRS). IEEE, 2021.
-
-- [ ] [LINK](https://wvvw.easychair.org/publications/preprint_download/1LHr) Woodruff, William, Niki Carroll, and Sebastiaan Peters. "Differential analysis of x86-64 instruction decoders." 2021 IEEE Security and Privacy Workshops (SPW). IEEE, 2021.
+- [X] **4/01/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/360051.360056) Denning, Dorothy E. "A Lattice Model of Secure Information Flow." Communications of the ACM 19.5 (1976): 236-243.
 
 - [x] **3/29/23** [LINK](https://www.researchgate.net/profile/James-Cheney-2/publication/1760450_Provenance_as_Dependency_Analysis/links/0f317530bd4dd0d098000000/Provenance-as-Dependency-Analysis.pdf) Cheney, James, Amal Ahmed, and Umut A. Acar. "Provenance as dependency analysis." Database Programming Languages: 11th International Symposium, DBPL 2007, Vienna, Austria, September 23-24, 2007, Revised Selected Papers 11. Springer Berlin Heidelberg, 2007.
 
