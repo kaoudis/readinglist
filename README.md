@@ -6,6 +6,8 @@ Why are the citations MLA? I like MLA. And it's the first citation format Google
 
 Why is paper A included but not paper B? I'd appreciate you teaching me about paper B's existence by making a PR to add it ;)
 
+If you'd like to chat, I am on discord: kaoudis#9503 and mastodon: https://infosec.exchange/@kaoudis
+
 # 2023
 
 - [_] [LINK](https://google-code-archive-downloads.storage.googleapis.com/v2/code.google.com/google-caja/caja-spec-2008-06-06.pdf) Miller, Mark S., et al. "Safe active content in sanitized JavaScript." Google, Inc., Tech. Rep (2008).
