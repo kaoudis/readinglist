@@ -6,6 +6,8 @@ Why are the citations MLA? I like MLA. And it's the first citation format Google
 
 Why is paper A included but not paper B? I'd appreciate you teaching me about paper B's existence by making a PR to add it ;)
 
+If you'd like to chat, I am on discord: kaoudis#9503 and mastodon: https://infosec.exchange/@kaoudis
+
 # 2023
 
 - [_] [LINK](https://www.usenix.org/legacy/event/evt06/tech/full_papers/benaloh/benaloh.pdf) Benaloh, Josh. "Simple Verifiable Elections." EVT 6 (2006): 5-5.
