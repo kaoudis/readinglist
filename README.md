@@ -10,11 +10,11 @@ If you'd like to chat, I am on discord: kaoudis#9503 and mastodon: https://infos
 
 # 2023
 
-- [_] [LINK](https://www.usenix.org/legacy/event/evt06/tech/full_papers/benaloh/benaloh.pdf) Benaloh, Josh. "Simple Verifiable Elections." EVT 6 (2006): 5-5.
-
 - [_] [LINK](https://google-code-archive-downloads.storage.googleapis.com/v2/code.google.com/google-caja/caja-spec-2008-06-06.pdf) Miller, Mark S., et al. "Safe active content in sanitized JavaScript." Google, Inc., Tech. Rep (2008).
 
-- [X] [LINK](https://link.springer.com/chapter/10.1007/978-3-319-98047-8_14) Noble, James, et al. "Abstract and concrete data types vs object capabilities." Principled Software Development: Essays Dedicated to Arnd Poetzsch-Heffter on the Occasion of his 60th Birthday (2018): 221-240
+- [X] **6/6/23** [LINK](https://www.usenix.org/legacy/event/evt06/tech/full_papers/benaloh/benaloh.pdf) Benaloh, Josh. "Simple Verifiable Elections." EVT 6 (2006): 5-5.
+
+- [X] **5/1/23** [LINK](https://link.springer.com/chapter/10.1007/978-3-319-98047-8_14) Noble, James, et al. "Abstract and concrete data types vs object capabilities." Principled Software Development: Essays Dedicated to Arnd Poetzsch-Heffter on the Occasion of his 60th Birthday (2018): 221-240
 
 - [X] **4/01/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/360051.360056) Denning, Dorothy E. "A Lattice Model of Secure Information Flow." Communications of the ACM 19.5 (1976): 236-243.
 
