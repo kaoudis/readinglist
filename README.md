@@ -12,7 +12,9 @@ If you'd like to chat, I am on discord: kaoudis#9503 and mastodon: https://infos
 
 - [_] [LINK](https://google-code-archive-downloads.storage.googleapis.com/v2/code.google.com/google-caja/caja-spec-2008-06-06.pdf) Miller, Mark S., et al. "Safe active content in sanitized JavaScript." Google, Inc., Tech. Rep (2008).
 
-- [_] **7/17/23** [LINK](https://www.usenix.org/system/files/sec23summer_449-mirsky-prepub.pdf) Mirsky, Yisroel, et al. "VulChecker: Graph-based Vulnerability Localization in Source Code." 31st USENIX Security Symposium, Security 2022. 2023.
+- [_] **7/26/23** [LINK](https://www.cs.ubc.ca/~brendan/papers/tralfamadore-eurosys09.pdf) Lefebvre, Geoffrey, et al. "Tralfamadore: unifying source code and execution experience." Proceedings of the 4th ACM European Conference on Computer systems. 2009.
+
+- [X] **7/17/23** [LINK](https://www.usenix.org/system/files/sec23summer_449-mirsky-prepub.pdf) Mirsky, Yisroel, et al. "VulChecker: Graph-based Vulnerability Localization in Source Code." 31st USENIX Security Symposium, Security 2022. 2023.
 
 - [X] **6/20/23** [LINK](https://mbernhard.com/papers/voting-sok.pdf) Bernhard, Matthew, et al. "Public evidence from secret ballots." Electronic Voting: Second International Joint Conference, E-Vote-ID 2017, Bregenz, Austria, October 24-27, 2017, Proceedings 2. Springer International Publishing, 2017.
 
