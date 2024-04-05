@@ -8,11 +8,26 @@ Why is paper A included but not paper B? I'd appreciate you teaching me about pa
 
 If you'd like to chat, I am on discord: kaoudis#9503 and mastodon: https://infosec.exchange/@kaoudis
 
-# 2023
+# 2024
 
 - [_] [LINK](https://google-code-archive-downloads.storage.googleapis.com/v2/code.google.com/google-caja/caja-spec-2008-06-06.pdf) Miller, Mark S., et al. "Safe active content in sanitized JavaScript." Google, Inc., Tech. Rep (2008).
 
-- [_] **7/26/23** [LINK](https://www.cs.ubc.ca/~brendan/papers/tralfamadore-eurosys09.pdf) Lefebvre, Geoffrey, et al. "Tralfamadore: unifying source code and execution experience." Proceedings of the 4th ACM European Conference on Computer systems. 2009.
+- [_] [LINK](https://www.cs.ubc.ca/~brendan/papers/tralfamadore-eurosys09.pdf) Lefebvre, Geoffrey, et al. "Tralfamadore: unifying source code and execution experience." Proceedings of the 4th ACM European Conference on Computer systems. 2009.
+
+
+# 2023
+
+- [X] **12/1/23** [LINK](https://www.ndss-symposium.org/wp-content/uploads/fuzzing2022_23001_paper.pdf) Herrera, Adrian, Mathias Payer, and Antony L. Hosking. "Registered Report: DATAFLOW." NDSS. 2022.
+
+- [X] **12/1/23** [LINK](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/df9df05d2f5bfe279dc1c0ce6cf51072d5ee1feb.pdf) Babić, Domagoj, et al. "Fudge: fuzz driver generation at scale." Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 2019.
+
+- [X] **11/1/23** [LINK](https://www.cs.columbia.edu/~Vpk/papers/libdft.vee12.pdf) Kemerlis, Vasileios P., et al. "libdft: Practical dynamic data flow tracking for commodity systems." Proceedings of the 8th ACM SIGPLAN/SIGOPS conference on Virtual Execution Environments. 2012.
+
+- [X] **11/1/23** [LINK](https://dl.acm.org/doi/pdf/10.1145/3546096.3546107) Koch, Luke, et al. "Toward the detection of polyglot files." Proceedings of the 15th Workshop on Cyber Security Experimentation and Test. 2022.
+
+- [X] **11/1/23** [LINK](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a045/1RjEajj6rHa) Sang, Qian, et al. "Airtaint: Making dynamic taint analysis faster and easier." 2024 IEEE Symposium on Security and Privacy (SP). IEEE Computer Society, 2023.
+
+- [X] **7/26/23** [LINK](https://zplin.me/talks/BHEU21_trash_kernel_bug.pdf) Lin, Zhenpeng, et al. "Your Trash Kernel Bug, My Precious 0day." Black Hat Europe 2021.
 
 - [X] **7/17/23** [LINK](https://www.usenix.org/system/files/sec23summer_449-mirsky-prepub.pdf) Mirsky, Yisroel, et al. "VulChecker: Graph-based Vulnerability Localization in Source Code." 31st USENIX Security Symposium, Security 2022. 2023.
 
